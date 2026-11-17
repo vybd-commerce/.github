@@ -10,9 +10,9 @@ We build in the open. Tools that help you and your agent work with Vybd are rele
 
 | Repository | What it is |
 |---|---|
+| [vybd-agent](https://github.com/vybd-commerce/vybd-agent) | The Vybd app: web chat, remote MCP server any agent can connect to, jobs, and the `vybd` CLI |
+| [vybd-brand-builder](https://github.com/vybd-commerce/vybd-brand-builder) | Research service: guided brand brief and evidence-backed research runs |
 | [skills](https://github.com/vybd-commerce/skills) | Agent skills for building Shopify Hydrogen storefronts, from an intake folder to a tested deploy on Oxygen |
-
-Being opened next: the Vybd agent app (web app, MCP server and CLI) and the brand research service.
 
 ## Work with Vybd
 
